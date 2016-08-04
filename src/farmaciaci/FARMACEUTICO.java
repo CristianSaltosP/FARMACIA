@@ -579,7 +579,7 @@ public class FARMACEUTICO extends javax.swing.JInternalFrame {
         });
 
         btnEliminarfarmaceutico.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
-        btnEliminarfarmaceutico.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/Eliminar_Icono2.png"))); // NOI18N
+        btnEliminarfarmaceutico.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/Eliminar_Icono3.jpg"))); // NOI18N
         btnEliminarfarmaceutico.setText("Eliminar");
         btnEliminarfarmaceutico.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -647,7 +647,7 @@ public class FARMACEUTICO extends javax.swing.JInternalFrame {
                     .addComponent(jLabel2, javax.swing.GroupLayout.PREFERRED_SIZE, 144, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addGap(30, 30, 30)
                 .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 174, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 47, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 51, Short.MAX_VALUE)
                 .addComponent(jPanel3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addContainerGap())
         );
